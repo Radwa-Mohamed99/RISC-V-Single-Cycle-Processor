@@ -21,3 +21,25 @@ The following figure illustrates the complete single-cycle RISC-V datapath imple
 - Data Memory
 - Control Unit
 - Branch Unit
+
+## Simulation Results
+
+### Execution Transcript
+
+![Transcript1](Transcript1.png)
+
+![Transcript2](Transcript2.png)
+
+![Transcript3](Transcript3.png)
+
+![Transcript4](Transcript4.png)
+
+### Waveform
+
+![Waveform](Waveform.png)
+
+## Documentation
+
+The complete project report is available here:
+
+📄 [RISC-V Processor Report](RISCV_Processor_Report.pdf)
