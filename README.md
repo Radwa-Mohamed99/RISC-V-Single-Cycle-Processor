@@ -27,12 +27,11 @@ The following figure illustrates the complete single-cycle RISC-V datapath imple
 ### Execution Transcript
 
 ![Transcript1](Transcript1.png)
-
 ![Transcript2](Transcript2.png)
-
 ![Transcript3](Transcript3.png)
-
 ![Transcript4](Transcript4.png)
+![Transcript4](Trans.png)
+
 
 ### Waveform
 
